@@ -1,0 +1,4 @@
+# multi-agent-researcher dependencies
+# Add your packages here, e.g.:
+# openai
+# langchain
