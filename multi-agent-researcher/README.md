@@ -9,7 +9,7 @@ Preconfigured Python Project that will boost your productivity and improve your 
 
 ## Getting Started
 
-### 1. Clone/Download the Repository
+### 1. Clone/Download the Repository and setup 2 Env variables OPENAI_API_KEY= and TAVILY_API_KEY=
 
 ### 2. Create and activate the virtual environment
 ```bash
@@ -22,7 +22,12 @@ source .venv/bin/activate
 python -m pip install -r requirements.txt
 ```
 
-### 4. Run the project
+### 4. Run only the AI Agent itself
 ```bash
 python main.py
+```
+
+### 5. Run the web app to use the AI Agent
+```bash
+streamlit run app.py 
 ```
