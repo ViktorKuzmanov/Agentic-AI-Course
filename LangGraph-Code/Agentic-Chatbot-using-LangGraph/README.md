@@ -1,6 +1,6 @@
-# LangGraph-Code
+# Agentic Chatbot
 
-najposlednat komanda gledaj a
+The gemini model is a little slow in the chatbot .najposlednat komanda gledaj a
 
 ## Technology Stack & Dependencies
 
