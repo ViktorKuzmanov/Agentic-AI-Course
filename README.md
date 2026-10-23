@@ -24,6 +24,6 @@ source .venv/bin/activate
 
 ### 4. Run the front-end React dapp
 ```
-pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
