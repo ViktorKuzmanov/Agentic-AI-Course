@@ -1,6 +1,6 @@
 # Agentic Chatbot
 
-The gemini model is a little slow in the chatbot .najposlednat komanda gledaj a
+The gemini model is a little slow in the chatbot .najposlednat komanda gledaj a so taa se run kodot
 
 ## Technology Stack & Dependencies
 
@@ -25,6 +25,20 @@ source .venv/bin/activate
 ```
 python -m pip install -r requirements.txt
 ```
+### 3.1 Setup env, check env example
+```
+OPENAI_API_KEY=
+GOOGLE_API_KEY=
+
+TAVILY_API_KEY="your-api-key"
+OPENWEATHER_API_KEY="your-api-key"
+
+LANGSMITH_TRACING="true"
+LANGSMITH_ENDPOINT="https://api.smith.langchain.com"
+LANGSMITH_API_KEY=""
+LANGSMITH_PROJECT="za kursot Agentic Chatbot"
+```
+
 
 ### 4. Run the project
 ```
